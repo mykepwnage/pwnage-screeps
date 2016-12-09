@@ -1,2 +1,1 @@
-# pwnage-screeps
-my screeps
+default
